@@ -1,4 +1,5 @@
 # Reto-8
+Notebook https://colab.research.google.com/drive/1p1V0QnyXGEQdpAFM64auKt0yv4BKC6LS?hl=es#scrollTo=4zrNarOuNHHQ
 ## Punto 1 
 + Imprimir un listado con los números del 1 al 100 cada uno con su respectivo cuadrado.
 ````python
